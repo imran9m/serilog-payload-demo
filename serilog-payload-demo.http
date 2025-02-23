@@ -1,0 +1,6 @@
+@serilog_payload_demo_HostAddress = http://localhost:5077
+
+GET {{serilog_payload_demo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
